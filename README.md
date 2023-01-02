@@ -1,15 +1,8 @@
-## DEPLOY REACT APP ON GITHUB
+# Tenzies
+Tenzies is a dice game created using React.js 
+The player has to roll 10 dice and select dice having same numbers on their faces
+If some dice have same numbers on their faces, the player has to click them to hold their values
+These held dice will not change their values the next time all the dice are rolled
+The player has to get same number in all the dice in minimum roles of the dice
 
-#1 npm install gh-pages --save-dev
-
-#2 create a new repo on github
-
-#3 git remote add origin "url_of_repo"
-
-#4 in package.json, below private, add "homepage": "http://Vedant-MAHAjan.github.io/{write repo name here without braces}"
-
-#5 in scripts part, add "predeploy": "npm run build" and "deploy": "gh-pages -d build"
-
-#6 npm run deploy will publish the app
-
-#7 check URL added in homepage for the published app
+The game is created using React.js with basic CSS to add styling to the HTML.

@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Tenzies
+
+Tenzies is a dice game created using React.js
+The player has to roll 10 dice and select dice having same numbers on their faces
+If some dice have same numbers on their faces, the player has to click them to hold their values
+These held dice will not change their values the next time all the dice are rolled
+The player has to get same number in all the dice in minimum roles of the dice
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -83,4 +89,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 #6 npm run deploy will publish the app
 
-#7 check URL added in homepage field of package.json for the published app
+#7 check URL added in homepage for the published app

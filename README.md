@@ -83,4 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 #6 npm run deploy will publish the app
 
-#7 check URL added in homepage for the published app
+#7 check URL added in homepage field of package.json for the published app

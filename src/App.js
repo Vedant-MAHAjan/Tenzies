@@ -107,7 +107,7 @@ export default function App() {
         {/* if game is won, change the text of button to New Game */}
         {tenzies ? "New Game" : "Roll"}
       </button>
-      <div>Count : {countNum} </div>
+      <div>Count of Chance : {countNum} </div>
     </main>
   )
 }

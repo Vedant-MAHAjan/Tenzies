@@ -10,6 +10,12 @@ These held dice will not change their values the next time all the dice are roll
 
 The player has to get same number in all the dice in minimum roles of the dice
 
+
+## 🎲 Try for yourself!
+
+### Visit the site here https://vedant-mahajan.github.io/Tenzies/
+
+
 ## 💻 Usage
 To use this app, execute...
 
